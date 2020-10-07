@@ -1,0 +1,10 @@
+{
+  "name": "zip-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/zip-it-and-ship-it": "^1.3.12",
+    "date-fns": "^2.16.1"
+  }
+}
